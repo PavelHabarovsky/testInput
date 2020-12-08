@@ -62,7 +62,6 @@ export default {
               return ''
             }
     },
-
     isNotCorrect: {
       type: Boolean,
       default: false,
